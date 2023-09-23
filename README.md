@@ -3,9 +3,9 @@ Bash scripts for JS and CSS fallback generation and minification. The only trick
 
 perl script for inserting fallback lines for var() and calc() CSS statements (PaultT wrote it for me)
 Example:
-
+```bash
 ./css_insert_fallback.pl CSS/home.css > CSS/home_with_fallback.css
-
+```
 home.css:
 ```css
 :root {
