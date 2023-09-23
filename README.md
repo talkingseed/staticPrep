@@ -46,4 +46,4 @@ body {
 
 CSSnano for minificatiom
 
-swc for JS fallback generation and minification
+SWC for JS fallback generation and minification
