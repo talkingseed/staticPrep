@@ -1,0 +1,15 @@
+{
+    "minify": true,
+    "jsc": {
+        "minify": {
+            "compress": {
+                "drop_console": true,
+            },
+            "mangle": true,
+            "format": {
+                "comments": false,
+                "beautify": true
+            }
+        }
+    }
+}
